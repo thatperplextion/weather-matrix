@@ -1,15 +1,12 @@
 {
   "name": "weather-matrix",
   "version": "1.0.0",
-  "description": "Futuristic weather app with interactive matrix design",
+  "description": "Futuristic weather app",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2"
-  },
-  "engines": {
-    "node": ">=14.0.0"
   }
 }
