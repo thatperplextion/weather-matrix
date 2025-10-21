@@ -1,30 +1,3 @@
-<<<<<<< HEAD
-# Nexus Weather 🌤️
-
-A futuristic weather application with interactive maps, particle animations, and real-time data visualization.
-
-## Features
-- Interactive weather maps
-- Particle.js background animations
-- 5-day forecast
-- Responsive design
-- Dark theme UI
-
-## Technologies Used
-- HTML5, CSS3, JavaScript
-- Leaflet.js for maps
-- Particles.js for animations
-- Font Awesome icons
-
-## Live Demo
-[Add your GitHub Pages link here]
-
-## Installation
-```bash
-git clone https://github.com/your-username/nexus-weather.git
-cd nexus-weather
-# Open index.html in browser
-=======
 # Weather-matrix ⚡
 
 A futuristic, visually stunning weather application that transforms weather forecasting into an immersive atmospheric experience. Built with cutting-edge web technologies and featuring interactive maps, particle animations, and real-time data visualization.
@@ -76,4 +49,3 @@ Explore Forecast: Check 5-day weather predictions
 Interactive Map: Click on markers for location-specific data
 
 Use Map Controls: Zoom, pan, and locate your position
->>>>>>> 2311853d38cc8f15c24acab4a987d7ea4d3073b2
